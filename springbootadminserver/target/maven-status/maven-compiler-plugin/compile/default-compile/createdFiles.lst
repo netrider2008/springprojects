@@ -1,4 +1,0 @@
-com\grp\springapp\springbootadminserver\configs\WebSecurityConfig.class
-com\grp\springapp\springbootadminserver\configs\HazelcastConfig.class
-com\grp\springapp\springbootadminserver\configs\NotifierConfiguration.class
-com\grp\springapp\springbootadminserver\SpringBootAdminServerApplication.class
