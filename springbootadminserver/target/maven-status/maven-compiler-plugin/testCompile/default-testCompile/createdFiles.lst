@@ -1,0 +1,4 @@
+com\grp\springapp\SpringContextIntegrationTest.class
+com\grp\springapp\springbootadminserver\NotifierConfigurationIntegrationTest.class
+com\grp\springapp\springbootadminserver\WebSecurityConfigIntegrationTest.class
+com\grp\springapp\springbootadminserver\HazelcastConfigIntegrationTest.class
